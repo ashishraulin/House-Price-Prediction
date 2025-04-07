@@ -48,9 +48,7 @@ Performed EDA to understand correlations, distributions, and outliers using:
 - **R² Score**: ~0.60 (can vary)
 - **Mean Squared Error (MSE)**
 
-## 📷 Sample Output
 
-> Add this image in your GitHub repo under an `images/` folder.
 
 ![Predicted vs Actual](images/predicted_vs_actual.png)
 
